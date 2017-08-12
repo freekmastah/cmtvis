@@ -3,7 +3,7 @@ CMTVIS
 
 CMTVIS is an offline visual reviewing application for .NET/WPF. It allows you visually manage multiple xml reviewing forms exported from CMT.
 
-![Screenshot](http://wwwdb.inf.tu-dresden.de/wp-content/uploads/screenshot-300x156.png "Screenshot")
+<img src="http://wwwdb.inf.tu-dresden.de/wp-content/uploads/screenshot-300x156.png" width="600">
 
 #### Features
 1. Scan and list entire directories for xml review forms including meta data preview
@@ -16,4 +16,4 @@ CMTVIS is an offline visual reviewing application for .NET/WPF. It allows you vi
 
 #### Requirements
 
-Microsoft [.NET Framework 4.5] or higher. 
+Microsoft [.NET Framework 4.5.0] or higher. 
