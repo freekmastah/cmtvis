@@ -1,0 +1,15 @@
+﻿<Window x:Class="cmtviswpf.About"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="About CMTVIS" Height="280" Width="454" WindowStyle="ToolWindow" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" Background="#FF555555">
+    <Grid>
+        <Label Content="CMTVIS" HorizontalAlignment="Left" Margin="94,10,0,0" VerticalAlignment="Top" Foreground="#FFB2E928" FontWeight="Bold" FontSize="36"/>
+        <Label Content="for WPF" HorizontalAlignment="Left" Margin="244,23,0,0" VerticalAlignment="Top" Foreground="#FFB2E928" FontSize="24" FontStyle="Italic"/>
+        <Label Content="© Database Technology Group, TU Dresden, 2013" HorizontalAlignment="Left" Margin="36,68,0,0" VerticalAlignment="Top" Foreground="#FFB2E928" FontSize="16" FontStyle="Italic"/>
+        <Label Content="Version 1.0.0.0" HorizontalAlignment="Left" Margin="36,104,0,0" VerticalAlignment="Top" Foreground="#FFB2E928" FontSize="16" FontStyle="Italic"/>
+        <Label Content="Further information:" HorizontalAlignment="Left" Margin="36,140,0,0" VerticalAlignment="Top" Foreground="#FFB2E928" FontSize="16" FontStyle="Italic"/>
+        <Label Content="http://wwwdb.inf.tu-dresden.de/cmtvis" HorizontalAlignment="Left" Margin="116,171,0,0" VerticalAlignment="Top" Foreground="#FFB2E928" FontSize="16" FontStyle="Italic" MouseLeftButtonDown="Label_MouseLeftButtonDown_1" TouchDown="Label_TouchDown_1"/>
+        <Button Content="Close"  Background="#FFB2E928" Foreground="#FF555555" Margin="321,208,19,10" Click="Button_Click_1" />
+
+    </Grid>
+</Window>
