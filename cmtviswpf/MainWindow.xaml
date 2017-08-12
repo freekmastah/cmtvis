@@ -9,7 +9,7 @@
             <RowDefinition Height="*" />
             <RowDefinition Height="30" />
         </Grid.RowDefinitions>
-        <Label Content="© Database Technology Group, TU Dresden, 2017" HorizontalAlignment="Right" Grid.Row="2" VerticalAlignment="Center" Margin="0 0 10 0" Foreground="#FFB2E928"/>
+        <Label Content="https://github.com/freekmastah/cmtvis" HorizontalAlignment="Right" Grid.Row="2" VerticalAlignment="Center" Margin="0 0 10 0" Foreground="#FFB2E928"/>
         <Grid x:Name="centergrid" Grid.Row="1">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="250" />
